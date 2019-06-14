@@ -1,0 +1,14 @@
+kr.co.sist.sec.administrator
+kr.co.sist.sec.administrator.basicinfo.classroom
+kr.co.sist.sec.administrator.basicinfo.course
+kr.co.sist.sec.administrator.basicinfo.subject
+kr.co.sist.sec.administrator.basicinfo.textbook
+kr.co.sist.sec.administrator.coursesubject
+kr.co.sist.sec.administrator.score_attendance
+kr.co.sist.sec.administrator.student
+kr.co.sist.sec.administrator.subjecttextbook
+kr.co.sist.sec.administrator.teacher
+kr.co.sist.sec.dto
+kr.co.sist.sec.main
+kr.co.sist.sec.student
+kr.co.sist.sec.teacher
